@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jetson on c0d3M8kr</title>
+    <link>https://c0d3m8kr.github.io/portfolio/tags/jetson/</link>
+    <description>Recent content in Jetson on c0d3M8kr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Feb 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://c0d3m8kr.github.io/portfolio/tags/jetson/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: JetTruck</title>
+      <link>https://c0d3m8kr.github.io/portfolio/post/project-1/</link>
+      <pubDate>Tue, 23 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://c0d3m8kr.github.io/portfolio/post/project-1/</guid>
+      <description>More to follow.
+Link to GitHub repository
+Link to Hackster</description>
+    </item>
+    
+  </channel>
+</rss>

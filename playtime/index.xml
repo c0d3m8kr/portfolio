@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects_Jr. on c0d3M8kr</title>
+    <link>https://c0d3m8kr.github.io/portfolio/playtime/</link>
+    <description>Recent content in Projects_Jr. on c0d3M8kr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Feb 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://c0d3m8kr.github.io/portfolio/playtime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smart Garden Jr.</title>
+      <link>https://c0d3m8kr.github.io/portfolio/playtime/playtime-3/</link>
+      <pubDate>Thu, 25 Feb 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://c0d3m8kr.github.io/portfolio/playtime/playtime-3/</guid>
+      <description>More to follow.
+Link to Hackster</description>
+    </item>
+    
+    <item>
+      <title>Rocketry with Thing 1 and Thing 2</title>
+      <link>https://c0d3m8kr.github.io/portfolio/playtime/playtime-2/</link>
+      <pubDate>Tue, 23 Feb 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://c0d3m8kr.github.io/portfolio/playtime/playtime-2/</guid>
+      <description>Rocket science has officially captivated my Thing 1 and Thing 2. It all begain with watching Space X&amp;rsquo;s launch of their reusable rockets from 2020.</description>
+    </item>
+    
+    <item>
+      <title>Micro::bit v2 Buggy with Thing 1 and Thing 2</title>
+      <link>https://c0d3m8kr.github.io/portfolio/playtime/playtime-1/</link>
+      <pubDate>Tue, 23 Feb 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://c0d3m8kr.github.io/portfolio/playtime/playtime-1/</guid>
+      <description>More to follow.
+Link to GitHub repository</description>
+    </item>
+    
+  </channel>
+</rss>

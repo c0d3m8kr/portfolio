@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rover on c0d3M8kr</title>
+    <link>https://c0d3m8kr.github.io/portfolio/tags/rover/</link>
+    <description>Recent content in Rover on c0d3M8kr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Feb 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://c0d3m8kr.github.io/portfolio/tags/rover/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Micro::bit v2 Buggy with Thing 1 and Thing 2</title>
+      <link>https://c0d3m8kr.github.io/portfolio/playtime/playtime-1/</link>
+      <pubDate>Tue, 23 Feb 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://c0d3m8kr.github.io/portfolio/playtime/playtime-1/</guid>
+      <description>More to follow.
+Link to GitHub repository</description>
+    </item>
+    
+  </channel>
+</rss>

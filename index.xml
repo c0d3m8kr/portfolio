@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rugged Bits on c0d3M8kr</title>
+    <link>https://c0d3m8kr.github.io/portfolio/</link>
+    <description>Recent content in Rugged Bits on c0d3M8kr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Feb 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://c0d3m8kr.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smart Garden Jr.</title>
+      <link>https://c0d3m8kr.github.io/portfolio/playtime/playtime-3/</link>
+      <pubDate>Thu, 25 Feb 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://c0d3m8kr.github.io/portfolio/playtime/playtime-3/</guid>
+      <description>More to follow.
+Link to Hackster</description>
+    </item>
+    
+    <item>
+      <title>Rocketry with Thing 1 and Thing 2</title>
+      <link>https://c0d3m8kr.github.io/portfolio/playtime/playtime-2/</link>
+      <pubDate>Tue, 23 Feb 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://c0d3m8kr.github.io/portfolio/playtime/playtime-2/</guid>
+      <description>Rocket science has officially captivated my Thing 1 and Thing 2. It all begain with watching Space X&amp;rsquo;s launch of their reusable rockets from 2020.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Smart Garden Sr.</title>
+      <link>https://c0d3m8kr.github.io/portfolio/post/project-4/</link>
+      <pubDate>Tue, 23 Feb 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://c0d3m8kr.github.io/portfolio/post/project-4/</guid>
+      <description>More to follow.
+Link to GitHub repository
+Link to Hackster</description>
+    </item>
+    
+    <item>
+      <title>Project 3: RTOS Xplorations - QNX vs FreeRTOS vs Zephyr</title>
+      <link>https://c0d3m8kr.github.io/portfolio/post/project-3/</link>
+      <pubDate>Tue, 23 Feb 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://c0d3m8kr.github.io/portfolio/post/project-3/</guid>
+      <description>More to follow.</description>
+    </item>
+    
+    <item>
+      <title>Micro::bit v2 Buggy with Thing 1 and Thing 2</title>
+      <link>https://c0d3m8kr.github.io/portfolio/playtime/playtime-1/</link>
+      <pubDate>Tue, 23 Feb 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://c0d3m8kr.github.io/portfolio/playtime/playtime-1/</guid>
+      <description>More to follow.
+Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Microzed 7020 DAQ System</title>
+      <link>https://c0d3m8kr.github.io/portfolio/post/project-2/</link>
+      <pubDate>Tue, 23 Feb 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://c0d3m8kr.github.io/portfolio/post/project-2/</guid>
+      <description>More to follow.
+Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: JetTruck</title>
+      <link>https://c0d3m8kr.github.io/portfolio/post/project-1/</link>
+      <pubDate>Tue, 23 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://c0d3m8kr.github.io/portfolio/post/project-1/</guid>
+      <description>More to follow.
+Link to GitHub repository
+Link to Hackster</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://c0d3m8kr.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://c0d3m8kr.github.io/portfolio/contact/</guid>
+      <description>Contact Rugged Bits
+c0d3M8kr@gmail.com
+Follow me.
+   Platform URL     Website:    Twitter: https://twitter.com/c0d3m8kr   GitHub: https://github.com/c0d3m8kr   Hackster: https://www.hackster.io/c0d3m8kr    </description>
+    </item>
+    
+  </channel>
+</rss>
